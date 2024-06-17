@@ -1,24 +1,17 @@
-:root{
---background-main-landing-page-color:#F5F7FA
-
-
+:root {
+  --background-main-landing-page-color: #f5f7fa;
 }
 
 /*--reset*/
-*{
-
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
   font-family: "Poppins";
 }
 
-
-
 /*--body*/
 
-body{
-  background-color: var(--background-main-landing-page-color)
-
-
+body {
+  background-color: var(--background-main-landing-page-color);
 }
